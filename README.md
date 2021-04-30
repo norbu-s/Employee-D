@@ -18,6 +18,8 @@ Github Repo - https://github.com/norbu-s/Employee-D
 
 Application Screenshot
 
+![Screen Shot 2021-04-30 at 9 36 24 pm](https://user-images.githubusercontent.com/73917485/116704653-016bb780-aa0f-11eb-8222-b4160b6ee9dd.png)
+
 
 Contact
 Github Profile - https://github.com/norbu-s
